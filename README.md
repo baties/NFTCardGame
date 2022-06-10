@@ -1,9 +1,11 @@
-# blockchain developer bootcamp final project - NFT Card 
+# NFT Card 
 
 This repository containts an Ethereum DApp that demonstrates a Card Battle Game base on NFT Cards (ERC721 Token) .
 In this game there are different worlds that each of them have their own mythology and each card will represent a different god and goddess and other creatures.
 Each card contains the power and level of the god and creature it belongs to. It can also be a special symbol representing an event or a specific god. Like the ancient mythology these creatures have their battles and relations and having a card or a collection of cards can result in obtaining another card for free as a trophy. The card will be choosen from the tales of the said creatures and ...  
 .... To be Continue 
+
+- At first This was ConsenSys blockchain developer bootcamp final project, But Then I Continued it as an personal Project.
 
 
 ## Getting Started
